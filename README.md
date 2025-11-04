@@ -66,7 +66,7 @@ This dashboard helps:
 ---
 
 ### 📸 Dashboard Preview  
-![Dubai Real Estate Dashboard](Images/Dubai_Real_Estate_Dashboard.png)
+Dubai_Real_Estate_Dashboard.png
 
 ---
 
